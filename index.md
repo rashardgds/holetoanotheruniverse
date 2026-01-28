@@ -16,6 +16,7 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<img  alt="image" src="https://github.com/user-attachments/assets/5a144e3c-1e83-48d1-bffb-0a8c705b59f7" />
 
 ## GRAPHiC_DESiGN_RESOURCES
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/327956090?h=6b1a4743d3&color=0099ff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
